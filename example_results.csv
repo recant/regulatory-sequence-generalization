@@ -1,0 +1,5 @@
+split,metric,value
+random row split,AUROC,1.0
+family-held-out split,AUROC,0.44044129143214505
+random row split,AUPRC,1.0
+family-held-out split,AUPRC,0.45133127835738
